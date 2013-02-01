@@ -1,4 +1,4 @@
-package net.openjdk.diamond;
+package diamond;
 
 
 import junit.framework.Assert;
@@ -10,7 +10,7 @@ public class NewDiamondOperatorTest {
 
 
     /**
-     * JDK7 introduces simplified diamond operator, it is no longer required to
+     * JDK7 introduces simplified diamond operator <>, it is no longer required to
      * specify your generic types on both sides
      */
     @Test

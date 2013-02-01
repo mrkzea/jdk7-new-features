@@ -1,4 +1,4 @@
-package net.openjdk.autoclosable;
+package autoclosable;
 
 
 import junit.framework.Assert;

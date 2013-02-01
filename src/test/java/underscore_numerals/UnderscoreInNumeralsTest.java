@@ -1,4 +1,4 @@
-package net.openjdk.underscore_numerals;
+package underscore_numerals;
 
 
 import junit.framework.Assert;

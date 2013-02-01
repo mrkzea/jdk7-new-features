@@ -1,4 +1,4 @@
-package net.openjdk.multicatch_exceptions;
+package multicatch_exceptions;
 
 
 import junit.framework.Assert;

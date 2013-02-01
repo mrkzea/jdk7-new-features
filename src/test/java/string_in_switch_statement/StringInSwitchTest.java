@@ -1,4 +1,4 @@
-package net.openjdk.string_in_switch_statement;
+package string_in_switch_statement;
 
 
 import junit.framework.Assert;
