@@ -15,9 +15,6 @@ Project contains example tests presenting some new features from JDK7 such as
 Technical discussions about jdk7 project
   http://mail.openjdk.java.net/mailman/listinfo/jdk7-dev
 
-Binary builds for JDK8 with Lambda support:
-  http://jdk8.java.net/lambda
-
 General information about the project:
   http://openjdk.java.net/projects/jdk7/
 
